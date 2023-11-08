@@ -1,0 +1,10 @@
+.logImg{
+    width:30px;
+    height: 30px;
+}
+
+.tagline {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bold;
+}
