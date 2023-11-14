@@ -21,7 +21,7 @@ const Header = () => {
                 </Link>
             </div>
             <div className="col-sm-5 ">
-                <p className={'m-0 ' + styles.tagline}>Welcome! Your real estate destination!</p>
+                <p className={'m-0 ' + styles.tagline}>Welcome!! Your real estate destination!</p>
             </div>
             <div className="col-sm-4 text-end pe-5" >
                 {
